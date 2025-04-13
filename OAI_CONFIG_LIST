@@ -1,0 +1,18 @@
+[
+  {
+    "model": "gpt-4o",
+    "api_key":"api-key"
+  },
+  {
+    "model"::"gpt-4o-preview",
+    "api-key":"api-key"
+  },
+  {
+    "model":"gemini",
+    "api_key":""
+  },
+  {
+    "model":"",
+    "api_key":""
+  }
+]
